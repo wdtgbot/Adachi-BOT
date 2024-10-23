@@ -6,7 +6,7 @@
     <title>404 | Vue.js</title>
     <meta name="description" content="Not Found">
     <meta name="generator" content="VitePress v1.3.4">
-    <link rel="preload stylesheet" href="/assets/style.D5NAwAld.css" as="style">
+    <link rel="preload stylesheet" href="/assets/style.Bm2QtcdW.css" as="style">
     
     <script type="module" src="/assets/app.B6LwuggU.js"></script>
     <link rel="icon" href="/logo.svg">
