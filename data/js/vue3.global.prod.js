@@ -1,1 +1,1 @@
-Cannot find package vue@next
+Package version not found: vue@next
